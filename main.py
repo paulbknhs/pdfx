@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 import time
 from watchdog.observers import Observer
